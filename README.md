@@ -28,4 +28,4 @@ A simple rule-based chatbot that responds to predefined inputs.
 ## Author
 **Anam Shaheen**  
 BS Computer Science, Minhaj University Lahore  
-CodeAlpha Python Programming Intern — June 2026 Batch
+CodeAlpha Python Programming Intern — June 2026 Batch.
