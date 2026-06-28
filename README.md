@@ -1,4 +1,4 @@
-# CodeAlpha Python Programming Internship — Tasks
+# CodeAlpha Python Programming Internship Tasks
 
 This repository contains the Python projects completed as part of the 
 **CodeAlpha Python Programming Internship**. Each project is organized 
